@@ -1,5 +1,7 @@
 ![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
-<h1 align="center">Hey 👋, It's me Ramanand R</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+It's+me!+👋;+Ramanand+R!;" />
+</h1>
 <h3 align="center">A passionate Web Developer, Flutter Developer and AI Engineer.</h3>
 
 <img align="right" alt="Future" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmw4aHBtMW1nd2g0a3l2MWtjNW91ZXhyMXYxdzF5Z2FhZXJqeGc1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KA593kO0JvXMs/giphy.webp">
