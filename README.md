@@ -2,9 +2,9 @@
 <h1 align="center">Hey 👋, It's me Ramanand R</h1>
 <h3 align="center">A passionate Web Developer, Flutter Developer and AI Engineer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramanand76&label=Profile%20views&color=0e75b6&style=flat" alt="ramanand76" /> </p>
+<img align="right" alt="Future" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmw4aHBtMW1nd2g0a3l2MWtjNW91ZXhyMXYxdzF5Z2FhZXJqeGc1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KA593kO0JvXMs/giphy.webp">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramanand76" alt="ramanand76" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramanand76&label=Profile%20views&color=0e75b6&style=flat" alt="ramanand76" /> </p>
 
 - 🔭 I’m currently working on [Prathividhi](https://github.com/RamAnand76/Prathividhi-gov_solutions)
 
@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ramanand r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramanand r" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ramanandr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramanand r" height="30" width="40" /></a>
 <a href="https://kaggle.com/ramanand r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ramanand r" height="30" width="40" /></a>
 <a href="https://instagram.com/ramanand 786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramanand 786" height="30" width="40" /></a>
 </p>
